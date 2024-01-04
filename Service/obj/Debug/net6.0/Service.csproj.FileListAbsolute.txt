@@ -1,0 +1,17 @@
+/Volumes/Douse Backup/WakeApp/Service/bin/Debug/net6.0/Service.deps.json
+/Volumes/Douse Backup/WakeApp/Service/bin/Debug/net6.0/Service.dll
+/Volumes/Douse Backup/WakeApp/Service/bin/Debug/net6.0/Service.pdb
+/Volumes/Douse Backup/WakeApp/Service/bin/Debug/net6.0/Data.dll
+/Volumes/Douse Backup/WakeApp/Service/bin/Debug/net6.0/Domain.dll
+/Volumes/Douse Backup/WakeApp/Service/bin/Debug/net6.0/Domain.pdb
+/Volumes/Douse Backup/WakeApp/Service/bin/Debug/net6.0/Data.pdb
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/Service.csproj.AssemblyReference.cache
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/Service.AssemblyInfoInputs.cache
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/Service.AssemblyInfo.cs
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/Service.csproj.CoreCompileInputs.cache
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/Service.csproj.CopyComplete
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/Service.dll
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/refint/Service.dll
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/Service.pdb
+/Volumes/Douse Backup/WakeApp/Service/obj/Debug/net6.0/ref/Service.dll

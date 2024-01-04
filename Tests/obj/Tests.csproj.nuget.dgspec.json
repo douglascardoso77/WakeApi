@@ -1,0 +1,475 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/Douse Backup/WakeApp/Tests/Tests.csproj": {}
+  },
+  "projects": {
+    "/Volumes/Douse Backup/WakeApp/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Volumes/Douse Backup/WakeApp/Application/Application.csproj",
+        "packagesPath": "/Users/douglas/.nuget/packages/",
+        "outputPath": "/Volumes/Douse Backup/WakeApp/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/douglas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj"
+              },
+              "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj"
+              },
+              "/Volumes/Douse Backup/WakeApp/Service/Service.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj",
+        "projectName": "CrossCutting",
+        "projectPath": "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj",
+        "packagesPath": "/Users/douglas/.nuget/packages/",
+        "outputPath": "/Volumes/Douse Backup/WakeApp/CrossCutting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/douglas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Douse Backup/WakeApp/Data/Data.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj"
+              },
+              "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj"
+              },
+              "/Volumes/Douse Backup/WakeApp/Service/Service.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Service/Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Douse Backup/WakeApp/Data/Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj",
+        "projectName": "Data",
+        "projectPath": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj",
+        "packagesPath": "/Users/douglas/.nuget/packages/",
+        "outputPath": "/Volumes/Douse Backup/WakeApp/Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/douglas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj",
+        "packagesPath": "/Users/douglas/.nuget/packages/",
+        "outputPath": "/Volumes/Douse Backup/WakeApp/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/douglas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Douse Backup/WakeApp/Service/Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Service/Service.csproj",
+        "projectName": "Service",
+        "projectPath": "/Volumes/Douse Backup/WakeApp/Service/Service.csproj",
+        "packagesPath": "/Users/douglas/.nuget/packages/",
+        "outputPath": "/Volumes/Douse Backup/WakeApp/Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/douglas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Douse Backup/WakeApp/Data/Data.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj"
+              },
+              "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/Douse Backup/WakeApp/Tests/Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Tests/Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "/Volumes/Douse Backup/WakeApp/Tests/Tests.csproj",
+        "packagesPath": "/Users/douglas/.nuget/packages/",
+        "outputPath": "/Volumes/Douse Backup/WakeApp/Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/douglas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Volumes/Douse Backup/WakeApp/Application/Application.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Application/Application.csproj"
+              },
+              "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj"
+              },
+              "/Volumes/Douse Backup/WakeApp/Data/Data.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj"
+              },
+              "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
+                "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "ComplexFaker": {
+              "target": "Package",
+              "version": "[23.10.4.36, )"
+            },
+            "Faker": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.416/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Volumes\/Douse Backup\/WakeApp\/Application",
+  "CrossCutting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Volumes\/Douse Backup\/WakeApp\/CrossCutting",
+  "Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Volumes\/Douse Backup\/WakeApp\/Data",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Volumes\/Douse Backup\/WakeApp\/Domain",
+  "Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "\/Volumes\/Douse Backup\/WakeApp\/Service"
+}
