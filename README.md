@@ -35,11 +35,11 @@ dotnet ef database update
 
 #Compile ou execute
 
+```
+
 ### Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 .NET CORE 6.0
-
-```
 
 ### Futuras melhorias
 - Adiconar no asppsettings a configuração da base
