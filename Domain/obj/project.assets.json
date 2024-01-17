@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj",
+      "projectUniqueName": "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj",
+      "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj",
       "packagesPath": "/Users/douglas/.nuget/packages/",
-      "outputPath": "/Volumes/Douse Backup/WakeApp/Domain/obj/",
+      "outputPath": "/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/douglas/.nuget/NuGet/NuGet.Config"

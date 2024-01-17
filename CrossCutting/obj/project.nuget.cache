@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MJetbQP6o+o6YyR8FR6AwFcs0ba/s/1oXWu0U2hnKpuCw9ErSA233YhLkpr8iOW8m4tLRFLvN4tyMlfzasW4eA==",
+  "dgSpecHash": "CcYratB/9t7cxM2YlhrYX0tkfsgvfg9TJwfvsko1/96hVYbWhFfXzL91DvjgGCtGspQBmyXaZ/UBU/THKc//xA==",
   "success": true,
-  "projectFilePath": "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj",
+  "projectFilePath": "/Volumes/Douse Backup/Programming/WakeApp/CrossCutting/CrossCutting.csproj",
   "expectedPackageFiles": [
     "/Users/douglas/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/douglas/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/6.0.0/automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",

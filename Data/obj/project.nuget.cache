@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wuc64veSSf/exsvmGDEPI6vwtBmAzhagR544/CLdfWAhb7BGS8GFOGAWDIYxfgo2LCfjvZeMYSOFmOK1+yPPNQ==",
+  "dgSpecHash": "FpS8Cy0tR4jN1M8vrUEx8P+2DGhuPsM6S/l0/ZlZm1KlkxhuNQKuYDcOESbk+LPPWaLfZQDUxvhvDBWXUjJAQA==",
   "success": true,
-  "projectFilePath": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj",
+  "projectFilePath": "/Volumes/Douse Backup/Programming/WakeApp/Data/Data.csproj",
   "expectedPackageFiles": [
     "/Users/douglas/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/douglas/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

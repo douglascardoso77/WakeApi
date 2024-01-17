@@ -8,7 +8,7 @@ namespace Data.Context
     {
         public MyContext CreateDbContext(string[] args)
         {
-            var connectionString = "Server=localhost, 1433;Database=WakeApp;User Id=sa;Password=Database!2024;";
+            var connectionString = Environment.GetEnvironmentVariable("DB_CONNECTION");
             var optionsBuilder = new DbContextOptionsBuilder<MyContext>();
             optionsBuilder.UseSqlServer(connectionString);
             return new MyContext(optionsBuilder.Options);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wO/hhQ/OWx+yLsEj7ywYYto5kTT4NEdiQOcaWG/ZZkITOG4TAyOKS8xq+9riPJ76hGE/TtP8u0Hpczw9/62j2w==",
+  "dgSpecHash": "EYbh1sTPlztMrto3yw0t6KBj8pNB1s5lJ0xK7lD/Z+2opOS7L+MQdQNBIB+gZhzr8F5cdbXfqInSIoVvb0vZBw==",
   "success": true,
-  "projectFilePath": "/Volumes/Douse Backup/WakeApp/Service/Service.csproj",
+  "projectFilePath": "/Volumes/Douse Backup/Programming/WakeApp/Service/Service.csproj",
   "expectedPackageFiles": [
     "/Users/douglas/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/douglas/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

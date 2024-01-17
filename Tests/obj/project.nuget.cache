@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jKm4Nb4xxkM+UV/jNCw1v12a9dsWu00Rv/HQwNh0p30DKvRXQJoZgGSLo16k72bmFSdg4knWUbx2YVzcmKi2mg==",
+  "dgSpecHash": "d828nZnIvogssNjnYPxHxeyuXo6eT41BG3qHr2kuzo88ZS6qVY7K+ugXI7/6BprNgCLAcRpTeA5wCQWzPiT2cQ==",
   "success": true,
-  "projectFilePath": "/Volumes/Douse Backup/WakeApp/Tests/Tests.csproj",
+  "projectFilePath": "/Volumes/Douse Backup/Programming/WakeApp/Tests/Tests.csproj",
   "expectedPackageFiles": [
     "/Users/douglas/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/douglas/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

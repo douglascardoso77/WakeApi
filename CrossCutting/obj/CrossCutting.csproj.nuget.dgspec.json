@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj": {}
+    "/Volumes/Douse Backup/Programming/WakeApp/CrossCutting/CrossCutting.csproj": {}
   },
   "projects": {
-    "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj": {
+    "/Volumes/Douse Backup/Programming/WakeApp/CrossCutting/CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj",
+        "projectUniqueName": "/Volumes/Douse Backup/Programming/WakeApp/CrossCutting/CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "/Volumes/Douse Backup/WakeApp/CrossCutting/CrossCutting.csproj",
+        "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/CrossCutting/CrossCutting.csproj",
         "packagesPath": "/Users/douglas/.nuget/packages/",
-        "outputPath": "/Volumes/Douse Backup/WakeApp/CrossCutting/obj/",
+        "outputPath": "/Volumes/Douse Backup/Programming/WakeApp/CrossCutting/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/douglas/.nuget/NuGet/NuGet.Config"
@@ -26,14 +26,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Volumes/Douse Backup/WakeApp/Data/Data.csproj": {
-                "projectPath": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj"
+              "/Volumes/Douse Backup/Programming/WakeApp/Data/Data.csproj": {
+                "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Data/Data.csproj"
               },
-              "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
-                "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj"
+              "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj": {
+                "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj"
               },
-              "/Volumes/Douse Backup/WakeApp/Service/Service.csproj": {
-                "projectPath": "/Volumes/Douse Backup/WakeApp/Service/Service.csproj"
+              "/Volumes/Douse Backup/Programming/WakeApp/Service/Service.csproj": {
+                "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Service/Service.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "/Volumes/Douse Backup/WakeApp/Data/Data.csproj": {
+    "/Volumes/Douse Backup/Programming/WakeApp/Data/Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj",
+        "projectUniqueName": "/Volumes/Douse Backup/Programming/WakeApp/Data/Data.csproj",
         "projectName": "Data",
-        "projectPath": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj",
+        "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Data/Data.csproj",
         "packagesPath": "/Users/douglas/.nuget/packages/",
-        "outputPath": "/Volumes/Douse Backup/WakeApp/Data/obj/",
+        "outputPath": "/Volumes/Douse Backup/Programming/WakeApp/Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/douglas/.nuget/NuGet/NuGet.Config"
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
-                "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj"
+              "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj": {
+                "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj"
               }
             }
           }
@@ -156,14 +156,14 @@
         }
       }
     },
-    "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
+    "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj",
+        "projectUniqueName": "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj",
+        "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj",
         "packagesPath": "/Users/douglas/.nuget/packages/",
-        "outputPath": "/Volumes/Douse Backup/WakeApp/Domain/obj/",
+        "outputPath": "/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/douglas/.nuget/NuGet/NuGet.Config"
@@ -209,14 +209,14 @@
         }
       }
     },
-    "/Volumes/Douse Backup/WakeApp/Service/Service.csproj": {
+    "/Volumes/Douse Backup/Programming/WakeApp/Service/Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/Douse Backup/WakeApp/Service/Service.csproj",
+        "projectUniqueName": "/Volumes/Douse Backup/Programming/WakeApp/Service/Service.csproj",
         "projectName": "Service",
-        "projectPath": "/Volumes/Douse Backup/WakeApp/Service/Service.csproj",
+        "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Service/Service.csproj",
         "packagesPath": "/Users/douglas/.nuget/packages/",
-        "outputPath": "/Volumes/Douse Backup/WakeApp/Service/obj/",
+        "outputPath": "/Volumes/Douse Backup/Programming/WakeApp/Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/douglas/.nuget/NuGet/NuGet.Config"
@@ -231,11 +231,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Volumes/Douse Backup/WakeApp/Data/Data.csproj": {
-                "projectPath": "/Volumes/Douse Backup/WakeApp/Data/Data.csproj"
+              "/Volumes/Douse Backup/Programming/WakeApp/Data/Data.csproj": {
+                "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Data/Data.csproj"
               },
-              "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj": {
-                "projectPath": "/Volumes/Douse Backup/WakeApp/Domain/Domain.csproj"
+              "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj": {
+                "projectPath": "/Volumes/Douse Backup/Programming/WakeApp/Domain/Domain.csproj"
               }
             }
           }

@@ -10,3 +10,15 @@
 /Volumes/Douse Backup/WakeApp/Domain/obj/Debug/net6.0/refint/Domain.dll
 /Volumes/Douse Backup/WakeApp/Domain/obj/Debug/net6.0/Domain.pdb
 /Volumes/Douse Backup/WakeApp/Domain/obj/Debug/net6.0/ref/Domain.dll
+/Volumes/Douse Backup/Programming/WakeApp/Domain/bin/Debug/net6.0/Domain.deps.json
+/Volumes/Douse Backup/Programming/WakeApp/Domain/bin/Debug/net6.0/Domain.dll
+/Volumes/Douse Backup/Programming/WakeApp/Domain/bin/Debug/net6.0/Domain.pdb
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/Domain.csproj.AssemblyReference.cache
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/Domain.AssemblyInfoInputs.cache
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/Domain.AssemblyInfo.cs
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/Domain.csproj.CoreCompileInputs.cache
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/Domain.dll
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/refint/Domain.dll
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/Domain.pdb
+/Volumes/Douse Backup/Programming/WakeApp/Domain/obj/Debug/net6.0/ref/Domain.dll
